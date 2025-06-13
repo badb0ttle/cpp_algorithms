@@ -1,0 +1,1 @@
+{"name":"XUJCOJ-C2304-P3","url":"https://xujcoj.com/home/contest/2304/problem/3","interactive":false,"memoryLimit":64,"timeLimit":1000,"tests":[{"id":1749292322674,"input":"3 2\n1 1\n2 2\n","output":"5\n3\n"}],"testType":"single","input":{"type":"stdin"},"output":{"type":"stdout"},"srcPath":"/Users/mac/Desktop/iomanip/xujcoj/XUJCOJ_C_2304_P_3.cpp"}

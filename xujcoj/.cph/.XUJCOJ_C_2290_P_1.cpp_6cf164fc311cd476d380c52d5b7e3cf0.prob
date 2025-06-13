@@ -1,0 +1,1 @@
+{"name":"XUJCOJ-C2290-P1","url":"https://xujcoj.com/home/contest/2290/problem/1","interactive":false,"memoryLimit":64,"timeLimit":2000,"tests":[{"id":1748071810734,"input":"2\n5 5 5 5\n2 3 4 5\n","output":"400\n12000\n"}],"testType":"single","input":{"type":"stdin"},"output":{"type":"stdout"},"srcPath":"/Users/mac/Desktop/iomanip/xujcoj/XUJCOJ_C_2290_P_1.cpp"}

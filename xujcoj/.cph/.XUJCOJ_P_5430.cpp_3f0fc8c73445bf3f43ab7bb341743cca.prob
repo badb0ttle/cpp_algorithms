@@ -1,0 +1,1 @@
+{"name":"XUJCOJ-P5430","url":"https://xujcoj.com/home/problem/detail/5430","interactive":false,"memoryLimit":64,"timeLimit":2000,"tests":[{"id":1748180563602,"input":"2\nC+7-2-3+0\nC-10+3+30\n","output":"CJHEE\nCADZ\n"}],"testType":"single","input":{"type":"stdin"},"output":{"type":"stdout"},"srcPath":"/Users/mac/Desktop/iomanip/xujcoj/XUJCOJ_P_5430.cpp"}
